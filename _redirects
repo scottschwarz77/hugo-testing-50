@@ -1,1 +1,2 @@
+/weather http://weather.com
 /netlify/:anything   http://localhost/:anything
